@@ -1,3 +1,4 @@
 # colectivo25marzo
 repo colectivo martes noche
- Johan Andres Gomez Gonzalez
+Johan Andres Gomez Gonzalez
+Valeria Salazar Hernandez 
